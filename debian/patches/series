@@ -25,3 +25,4 @@ backup-vma-remove-async-queue.patch
 internal-snapshot-async.patch
 disable-efi-enable-pxe-roms.patch
 backup-vma-allow-empty-backups.patch
+vfio_disallow_device_from_using_nosnoop_transactions.patch
